@@ -1,3 +1,4 @@
 soy el codigo inicial 
 esta es una modificacion  desde el repositorio local
 soy una linea desde github
+esta es una linea que se genero desde el repositorio remoto en rama diseño 
